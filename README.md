@@ -2,7 +2,7 @@
 LLM based chat gpt api chatbot 
 ------
 
-This project is about developing a chatbot for  enhancing the MS bais business process using chatgpt based chatbot and Lang chain Model. 
+This project is about developing a chatbot for  enhancing the MS Business Analytics and Information Systems business process using chatgpt based chatbot and Lang chain Model. 
 
 Brief Overview
 This Project report describes how developing and deploying a Custom

@@ -1,4 +1,4 @@
-# Lang-chain-chatbot
+# Bull-bot
 LLM based chat gpt api chatbot 
 ------
 
